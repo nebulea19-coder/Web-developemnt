@@ -1,0 +1,36 @@
+#home{
+    background-color: greenyellow;
+    background-position: center;    
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+#about{
+    background-color: lightblue;
+    background-position: center;    
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+#contact{
+    background-color: lightpink;
+    background-position: center;    
+    height: 100px;
+    width: 100%;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid black;
+}
+.nav-links{
+    background-color: lightgray;
+    background-position: center;    
+    height: 50px;
+    width: 100%;
+    padding: 20px;
+    margin: 10px;
+    border: 1px solid black;
+}
